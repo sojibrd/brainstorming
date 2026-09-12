@@ -9,7 +9,7 @@
 ## কাঠামো — এক পাতা, এই ক্রমে
 
 1. **মাথা:** নাম, পদবি ("Frontend Engineer"), ইমেইল, ফোন, LinkedIn, GitHub, portfolio। রিমোটের জন্য যোগ করুন *"Dhaka, Bangladesh · Open to remote (UTC+6)"*।
-2. **সারাংশ, দুই লাইন, নির্দিষ্ট করে:** "Hardworking developer passionate about technology" নয়। বরং *"Frontend engineer with 3 years in Ember.js and TypeScript, building a live sports-data platform; ships side projects in Next.js."*
+2. **সারাংশ, দুই লাইন, নির্দিষ্ট করে:** "Hardworking developer passionate about technology" নয়। বরং *"Frontend engineer with 4 years in Ember.js and TypeScript, building a live sports-data platform; ships side projects in Next.js."*
 3. **অভিজ্ঞতা:** সিভির হৃদয়। প্রতিটা চাকরির নিচে ৩–৫টা bullet।
 4. **প্রজেক্ট:** ৩–৪টা, প্রতিটায় এক লাইনের বর্ণনা আর live link।
 5. **দক্ষতা:** ভাগ করে লিখুন (Languages · Frameworks · Tools)। rating bar বা "৮০% JavaScript" নয়, ওগুলোর কোনো মানে নেই।
@@ -33,7 +33,7 @@
 
 ## Ember-কে কীভাবে লিখবেন
 
-দুটো সংস্করণ রাখুন। **লোকাল ও সাধারণ পদের জন্য:** আগে "TypeScript · React · Next.js", তারপর Ember — কারণ বাংলাদেশে Ember-এর চাহিদা কম। **রিমোট Ember পদের জন্য:** "Ember.js 6 (Octane/GJS), Embroider, ember-concurrency" একদম প্রথমে — ওখানে এটাই আপনার সবচেয়ে বিরল দক্ষতা। আর অভিজ্ঞতা লিখবেন শুধু তারিখ দিয়ে (*Nov 2023 – Present*)। "৪ বছর" লিখে বাড়িয়ে বলবেন না — তারিখ দেখেই হিসাব হয়ে যায়, আর একটা অমিল ধরা পড়লে বাকি সিভিটাও আর বিশ্বাসযোগ্য থাকে না।
+দুটো সংস্করণ রাখুন। **লোকাল ও সাধারণ পদের জন্য:** আগে "TypeScript · React · Next.js", তারপর Ember — কারণ বাংলাদেশে Ember-এর চাহিদা কম। **রিমোট Ember পদের জন্য:** "Ember.js 6 (Octane/GJS), Embroider, ember-concurrency" একদম প্রথমে — ওখানে এটাই আপনার সবচেয়ে বিরল দক্ষতা। আর অভিজ্ঞতা লিখবেন তারিখ দিয়ে (*Nov 2022 – Present*)। "৪ বছর" সত্যি হয় ২০২৬-১১-০১ থেকে; তার আগে সারাংশে "nearly 4 years" লিখুন — তারিখ দেখেই হিসাব হয়ে যায়, আর একটা অমিল ধরা পড়লে বাকি সিভিটাও আর বিশ্বাসযোগ্য থাকে না।
 
 ## ATS-এর জন্য
 

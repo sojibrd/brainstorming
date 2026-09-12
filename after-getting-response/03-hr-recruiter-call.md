@@ -11,7 +11,7 @@
 ৬০ সেকেন্ডে তিনটা অংশ, এই ক্রমে: **এখন কী করেন → কীভাবে এখানে এলেন → এই পদ কেন চান।**
 
 ```
-I'm a frontend engineer with three years of experience, currently working
+I'm a frontend engineer with four years of experience, currently working
 with Ember.js and TypeScript on a live sports-data platform. I started in
 [how you started], and over time I've focused on [real strength].
 Outside work I've shipped several Next.js projects, which pushed me toward

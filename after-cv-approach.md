@@ -24,7 +24,7 @@
 তাই প্রতিটা আবেদনের আগে দেখে নিন ঐ কোম্পানিতে পরিচিত কেউ আছে কি না। LinkedIn-এ বার্তা ছোট রাখবেন, তিন লাইনের বেশি নয়:
 
 ```
-Hi [Name], I'm a frontend engineer (Ember/TypeScript, 3 yrs) in Dhaka.
+Hi [Name], I'm a frontend engineer (Ember/TypeScript, 4 yrs) in Dhaka.
 I saw the [Role] opening at [Company] and would love to apply.
 Would you be open to referring me, or sharing what the team looks for?
 ```
