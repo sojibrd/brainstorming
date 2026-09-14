@@ -137,6 +137,7 @@ mindmap
 
 | বিষয় | সিদ্ধান্ত |
 |---|---|
+| `dsa_prep` — "তিনটা পথের জন্য তিনটা আলাদা অ্যাপ লাগে না" ([DSA-র তিন পথ](dsa-prep-how-many-paths.md)), "উপেক্ষা মানে মুছে ফেলা নয়" ([লোকালে DSA-য় বাদ](dsa-prep-what-to-ignore-for-local.md)), "নতুন repo — dip-এর ছদ্মবেশ" (`switch_local_company_in_6_month/docs/00-rules.md`) বনাম ব্যবহারকারীর অনুরোধ | `dsa_prep` (ফোল্ডার + repo) অবসরে; তিন পথ তিনটা সাইট — `local_company_dsa_prep` (৩০টা, ৪০ দিন), `remote_company_dsa_prep` (৫০টা, ৪৯ দিন), `global_company_dsa_prep` (১১০টা, ১৩৩ দিন)। সংখ্যা, টপিক আর ক্রম brainstorming-এর হুবহু — নতুন লক্ষ্য নয়। ৬ মাসের plan-এর DSA ঘর এখন লোকাল সাইটের লিংক। brainstorming-এর `dsa_prep` উল্লেখগুলো ইতিহাস হিসেবে অক্ষত; pin-এর তালিকা ⏳ ব্যবহারকারীর উত্তর বাকি |
 | `switch_company_in_6_month/` — "markdown থাক, সাইট বানাবেন না" (৩ ফাইল) বনাম ব্যবহারকারীর সাইটের অনুরোধ | ফোল্ডার এখন `switch_local_company_in_6_month/`, ভেতরের git মোছা; ১৮০ দিনের plan (শুধু লোকাল) + সাইট — ২৪ মাসের plan-এর মাস ০০–০৬-এর দিন-স্তরের বিস্তার, নতুন সংখ্যা নয়। ৫টা ফাইলে নাম হালনাগাদ |
 
 ### মীমাংসিত — ২০২৬-০৯-১৩
