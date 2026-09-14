@@ -131,13 +131,15 @@ mindmap
 
 ### খোলা
 
-নেই।
+| বিষয় | অমিল |
+|---|---|
+| `switch_remote_company_in_6_month/` ও `switch_global_company_in_6_month/` বানানোর অনুরোধ (২০২৬-০৯-১৫) | `what-should-i-target-local-or-remote.md` ও `crack-remote-company-roadmap.md` বলে রিমোট এখন শুধু লোকালের ২০ আবেদনের ভেতরে সরাসরি আবেদন, আসল জোর প্রথম বদলের পরে (২০২৭-০৭ → ২০২৮-০৯); `dsa-prep-how-many-paths.md` বলে গ্লোবাল "রোডম্যাপের কোনো stage-এ নেই"। রিমোট/গ্লোবালের আলাদা লক্ষ্য-সংখ্যা কোথাও লেখা নেই। **আংশিক উত্তর ২০২৬-০৯-১৫:** তিনটা plan এখনই তৈরি থাকবে, একে অন্যের বিকল্প — যে যেটা target করবে সেটাই চালাবে, যেকোনো দিন শুরু। পাঠক = নিজে (ব্যক্তিগত তথ্যসহ)। গ্লোবাল = দেশে থেকে big tech-মানের (FAANG-এর interview bar) কোম্পানিতে রিমোট — relocation নয়। ⏳ বাকি: রিমোট/গ্লোবালের লক্ষ্য-সংখ্যা |
 
 ### মীমাংসিত — ২০২৬-০৯-১৪
 
 | বিষয় | সিদ্ধান্ত |
 |---|---|
-| `dsa_prep` — "তিনটা পথের জন্য তিনটা আলাদা অ্যাপ লাগে না" ([DSA-র তিন পথ](dsa-prep-how-many-paths.md)), "উপেক্ষা মানে মুছে ফেলা নয়" ([লোকালে DSA-য় বাদ](dsa-prep-what-to-ignore-for-local.md)), "নতুন repo — dip-এর ছদ্মবেশ" (`switch_local_company_in_6_month/docs/00-rules.md`) বনাম ব্যবহারকারীর অনুরোধ | `dsa_prep` (ফোল্ডার + repo) অবসরে; তিন পথ তিনটা সাইট — `local_company_dsa_prep` (৩০টা, ৪০ দিন), `remote_company_dsa_prep` (৫০টা, ৪৯ দিন), `global_company_dsa_prep` (১১০টা, ১৩৩ দিন)। সংখ্যা, টপিক আর ক্রম brainstorming-এর হুবহু — নতুন লক্ষ্য নয়। ৬ মাসের plan-এর DSA ঘর এখন লোকাল সাইটের লিংক। brainstorming-এর `dsa_prep` উল্লেখগুলো ইতিহাস হিসেবে অক্ষত; pin আর portfolio-র গল্পে `dsa_prep`-এর জায়গায় `local_company_dsa_prep` (`how-many-projects-do-i-need.md` ও ৬ মাসের plan হালনাগাদ) |
+| `dsa_prep` — "তিনটা পথের জন্য তিনটা আলাদা অ্যাপ লাগে না" ([DSA-র তিন পথ](dsa-prep-how-many-paths.md)), "উপেক্ষা মানে মুছে ফেলা নয়" ([লোকালে DSA-য় বাদ](dsa-prep-what-to-ignore-for-local.md)), "নতুন repo — dip-এর ছদ্মবেশ" (`switch_local_company_in_6_month/docs/00-rules.md`) বনাম ব্যবহারকারীর অনুরোধ | `dsa_prep` (ফোল্ডার + repo) অবসরে; তিন পথ তিনটা সাইট — `dsa_prep_local_company` (৩০টা, ৪০ দিন), `dsa_prep_remote_company` (৫০টা, ৪৯ দিন), `dsa_prep_global_company` (১১০টা, ১৩৩ দিন)। সংখ্যা, টপিক আর ক্রম brainstorming-এর হুবহু — নতুন লক্ষ্য নয়। ৬ মাসের plan-এর DSA ঘর এখন লোকাল সাইটের লিংক। brainstorming-এর `dsa_prep` উল্লেখগুলো ইতিহাস হিসেবে অক্ষত; pin আর portfolio-র গল্পে `dsa_prep`-এর জায়গায় `dsa_prep_local_company` (`how-many-projects-do-i-need.md` ও ৬ মাসের plan হালনাগাদ) |
 | `switch_company_in_6_month/` — "markdown থাক, সাইট বানাবেন না" (৩ ফাইল) বনাম ব্যবহারকারীর সাইটের অনুরোধ | ফোল্ডার এখন `switch_local_company_in_6_month/`, ভেতরের git মোছা; ১৮০ দিনের plan (শুধু লোকাল) + সাইট — ২৪ মাসের plan-এর মাস ০০–০৬-এর দিন-স্তরের বিস্তার, নতুন সংখ্যা নয়। ৫টা ফাইলে নাম হালনাগাদ |
 
 ### মীমাংসিত — ২০২৬-০৯-১৩
