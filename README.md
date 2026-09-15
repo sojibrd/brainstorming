@@ -8,7 +8,7 @@ Repo: https://github.com/sojibrd/brainstorming
 
 - **প্রশ্ন ধরে উত্তর:** কোনো career প্রশ্নে ("লোকাল না রিমোট?", "কয়টা প্রজেক্ট লাগবে?", "৪০-এ কত টাকা?") সরাসরি সেই ফাইল খোলা যায়।
 - **পুরো পরিকল্পনার মানচিত্র:** [`thought-map.md`](thought-map.md) দেখায় কোন ফাইল কোন ধারণার অংশ (Mermaid mindmap, ৮টা শাখা), শাখা পেরোনো যোগসূত্র, আর ফাইলগুলোর মধ্যে অমিলের রেকর্ড।
-- **নিচের প্রজেক্টগুলোর উৎস:** ১৮০ দিনের তিন plan — `switch_local_company_in_6_month`, `switch_remote_company_in_6_month`, `switch_global_company_in_6_month` — এখান থেকে তথ্য নেয়।
+- **নিচের প্রজেক্টগুলোর উৎস:** ১৮০ দিনের তিন plan — `switch_in_6_month_local_company`, `switch_in_6_month_remote_company`, `switch_in_6_month_global_company` — এখান থেকে তথ্য নেয়।
 
 ## Non-Functional Requirement
 
