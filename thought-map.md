@@ -134,7 +134,15 @@ mindmap
 
 ### খোলা
 
-নেই।
+| বিষয় | অমিল ও প্রশ্ন |
+|---|---|
+| গ্লোবাল পথের কাল্পনিক সিস্টেমের design doc কোথায় (২০২৬-০৯-১৬) | [FAANG-এ SD-র কাজের](system-design-what-works-for-faang.md) বলে "সপ্তাহে একটা নতুন সিস্টেম, ঐ ছয় সেকশনের ছাঁচে, `designs/`-এ"। কিন্তু ২০২৬-০৯-১৬-এর সিদ্ধান্তে `designs/` রাখা হয়নি, design doc থাকে প্রজেক্টের নিজের repo-তে — chat, news feed, file storage-এর মতো কাল্পনিক সিস্টেমের কোনো repo নেই, আর `system_design_global_company`-এর plan-এও ফাইলের জায়গা লেখা নেই। **প্রশ্ন:** ঐ লেখাগুলো কোথায় থাকবে? ⏳ |
+
+### মীমাংসিত — ২০২৬-০৯-১৬
+
+| বিষয় | অমিল ও সিদ্ধান্ত |
+|---|---|
+| `system_design` অবসরে (২০২৬-০৯-১৬) | তিন system design সাইট `system_design`-এর ডক আর simulator-এ বাইরের লিংক দিত, design doc লেখা হতো `system_design/designs/`-এ, আর pin-এর তিনটার একটা ছিল `system_design`। **উত্তর:** `system_design` (ফোল্ডার + repo) অবসরে; ২৫টা ডক আর simulator তিন সাইটে হুবহু কপি; `designs/` রাখা হয়নি — ছয় সেকশনের ছাঁচ প্রতিটা পথের `00-rules.md`-এ, নিজের প্রজেক্টের design doc ঐ প্রজেক্টের repo-তে (`srdtube`-এর `DESIGN.md`)। brainstorming-এর `system_design` উল্লেখগুলো ইতিহাস হিসেবে অক্ষত; pin আর portfolio-র গল্পে `system_design_local_company` (`how-many-projects-do-i-need.md` ও তিন ৬ মাসের plan হালনাগাদ)। `system-design-how-many-paths.md`-এ হালনাগাদের নোট |
 
 ### মীমাংসিত — ২০২৬-০৯-১৫
 
