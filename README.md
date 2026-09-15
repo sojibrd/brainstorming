@@ -68,7 +68,7 @@ Repo: https://github.com/sojibrd/brainstorming
 | [dsa-prep-what-to-ignore-for-local.md](dsa-prep-what-to-ignore-for-local.md) | লোকালে দরকার workbook-এর এক-তৃতীয়াংশ — কী ছোঁবেন না তার তালিকা |
 | [dsa-prep-what-to-ignore-for-remote.md](dsa-prep-what-to-ignore-for-remote.md) | রিমোটে পরীক্ষা ঘড়ি আর ভাষার; লোকালের উপেক্ষা-তালিকা হুবহু খাটে না |
 
-### সহায়ক প্রস্তুতি — System design ও Fullstack
+### সহায়ক প্রস্তুতি — System design, Behavioural ও Fullstack
 
 | ফাইল | Gist |
 |---|---|
@@ -77,6 +77,7 @@ Repo: https://github.com/sojibrd/brainstorming
 | [system-design-what-works-for-faang.md](system-design-what-works-for-faang.md) | ২৫ ডকের চেয়ে দামি `designs/`-এর ছয় সেকশনের ছাঁচ — হুবহু FAANG রাউন্ডের ক্রম |
 | [system-design-what-to-ignore-for-local.md](system-design-what-to-ignore-for-local.md) | লোকালে দরকার ৭টা ডক; বাকি ১৮টা এখন নয় — ডকের ক্রম শেখার ক্রম, চাকরির নয় |
 | [system-design-what-to-ignore-for-remote.md](system-design-what-to-ignore-for-remote.md) | রিমোটে system design লিখিত (design doc) বা আলোচনামূলক — লেখাটাই সামনে আনতে হবে |
+| [behavioural-how-many-paths.md](behavioural-how-many-paths.md) | একই ছয়টা story, তিন পথে ভিন্ন জোর — লোকালে বাজারভেদে, রিমোটে লিখে বোঝানো, গ্লোবালে ফলের সংখ্যা আর গভীর follow-up |
 | [want-fullstack-but-only-know-frontend.md](want-fullstack-but-only-know-frontend.md) | "Full-stack" মানে প্রায়ই ব্যাকএন্ডে ভয় না পাওয়া frontend ডেভেলপার — বার নিচে, কিন্তু একটা রেখা এখনো পার হয়নি |
 
 ### যোগ দেওয়ার পরে
