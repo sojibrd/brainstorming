@@ -12,7 +12,7 @@
 
 নিজের কোড খুলে দেখুন, ব্যাকএন্ডের চিন্তা আপনি ইতিমধ্যেই করেছেন:
 
-`leave_management`-এ Dexie/IndexedDB দিয়ে **সত্যিকারের schema** বানিয়েছেন — leave type, balance, history, cross-year split, overlap check, JSON backup/restore। এটা ডেটা মডেলিং, শুধু জায়গাটা ব্রাউজারে। `srdtube`-এ YouTube API-র **quota আর batching** সামলেছেন — ৫০টা id একসাথে, auto-pagination বন্ধ, কারণ প্রতি কলে ১০০ unit খরচ। এটাই তো ব্যাকএন্ড-চিন্তা। Next.js App Router-এ **server/client সীমারেখা** নিজেই নিয়ম করে বেঁধেছেন (`content.ts` server-only)। আর GitHub Actions দিয়ে নয়টা সাইট deploy করছেন। এমনকি `legacy_and_wisdom/`-এ Insforge-এর auth, database, storage, RLS-এর ডকুমেন্টেশন জড়ো করে রেখেছেন — **আগ্রহটা আগেই ছিল, শুধু হাত দেওয়া হয়নি।**
+`leave_management`-এ Dexie/IndexedDB দিয়ে **সত্যিকারের schema** বানিয়েছেন — leave type, balance, history, cross-year split, overlap check, JSON backup/restore। এটা ডেটা মডেলিং, শুধু জায়গাটা ব্রাউজারে। `srdtube`-এ YouTube API-র **quota আর batching** সামলেছেন — ৫০টা id একসাথে, auto-pagination বন্ধ, কারণ প্রতি কলে ১০০ unit খরচ। এটাই তো ব্যাকএন্ড-চিন্তা। Next.js App Router-এ **server/client সীমারেখা** নিজেই নিয়ম করে বেঁধেছেন (`content.ts` server-only)। আর GitHub Actions দিয়ে নয়টা সাইট deploy করছেন। এমনকি `skills` repo-তে Insforge-এর auth, database, storage, RLS-এর ডকুমেন্টেশন জড়ো করে রেখেছেন — **আগ্রহটা আগেই ছিল, শুধু হাত দেওয়া হয়নি।**
 
 ## যে রেখাটা পার হননি
 

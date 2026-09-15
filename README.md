@@ -8,12 +8,12 @@ Repo: https://github.com/sojibrd/brainstorming
 
 - **প্রশ্ন ধরে উত্তর:** কোনো career প্রশ্নে ("লোকাল না রিমোট?", "কয়টা প্রজেক্ট লাগবে?", "৪০-এ কত টাকা?") সরাসরি সেই ফাইল খোলা যায়।
 - **পুরো পরিকল্পনার মানচিত্র:** [`thought-map.md`](thought-map.md) দেখায় কোন ফাইল কোন ধারণার অংশ (Mermaid mindmap, ৮টা শাখা), শাখা পেরোনো যোগসূত্র, আর ফাইলগুলোর মধ্যে অমিলের রেকর্ড।
-- **নিচের প্রজেক্টগুলোর উৎস:** `legacy_and_wisdom` আর ১৮০ দিনের তিন plan — `switch_local_company_in_6_month`, `switch_remote_company_in_6_month`, `switch_global_company_in_6_month` — এখান থেকে তথ্য নেয়।
+- **নিচের প্রজেক্টগুলোর উৎস:** ১৮০ দিনের তিন plan — `switch_local_company_in_6_month`, `switch_remote_company_in_6_month`, `switch_global_company_in_6_month` — এখান থেকে তথ্য নেয়।
 
 ## Non-Functional Requirement
 
 - **কোনো অনুমান নয়।** যা ফাইলে বা ব্যবহারকারীর উত্তরে নেই তা লেখা হয় না — জিজ্ঞেস করা হয়, একবারে একটা প্রশ্ন, সাথে সুপারিশ।
-- **সব md ফাইলে একই তথ্য,** `legacy_and_wisdom/docs/ASSUMPTIONS.md`-এর সাথেও।
+- **সব md ফাইলে একই তথ্য,** [`ASSUMPTIONS.md`](ASSUMPTIONS.md)-এর সাথেও — ওটাই সত্যের একমাত্র উৎস।
 - **অমিল পেলে নিজে ঠিক করা নয়** — `thought-map.md`-এর "অমিল" সেকশনে লিখে ব্যবহারকারীকে জিজ্ঞেস।
 - **এই repo-র জন্য কোনো টুল, সাইট বা script নয়।** এখানকার ফাইলগুলো নিজেই সতর্ক করে: "এবারের কাজ বানানো নয়, পাঠানো।"
 
@@ -24,6 +24,7 @@ Repo: https://github.com/sojibrd/brainstorming
 | ফাইল | Gist |
 |---|---|
 | [thought-map.md](thought-map.md) | পুরো পরিকল্পনার মানচিত্র: mindmap, ফাইল-তালিকা (লেবেল · ফাইল · শাখা), যোগসূত্র টেবিল, খোলা ও মীমাংসিত অমিল |
+| [ASSUMPTIONS.md](ASSUMPTIONS.md) | সত্যের একমাত্র উৎস: নিশ্চিত তথ্য (বয়স, বেতন, খরচ, সঞ্চয়, সপ্তাহে ৭ ঘণ্টা), ৯ stage-এর সীমা, যা এখনো জানা নেই; ২০২৬-০৯-১৫-এ `legacy_and_wisdom` থেকে সরানো |
 | [memory.md](memory.md) | মূল রোগ — "টুল বানাই, ব্যবহার করি না": workspace আসলে একটা career plan যা কোড হয়ে গেছে; কাছের লক্ষ্য ২০২৮-০৯-এ ২ লাখ, দূরের ১০ বছরের রোডম্যাপ |
 | [what-will-be-my-first-goal.md](what-will-be-my-first-goal.md) | প্রথম লক্ষ্য একটাই: ২০২৭-০৩-এর মধ্যে ২০টা আবেদন, অন্তত ৫টা interview process সম্পূর্ণ |
 
@@ -110,6 +111,6 @@ Repo: https://github.com/sojibrd/brainstorming
 ## প্রজেক্ট-নির্দিষ্ট নিয়ম
 
 - **নতুন ফাইল যোগ হলে:** সেশন শুরুতে এজেন্ট স্ক্যান করে `thought-map.md` হালনাগাদ করে — শাখা, লেবেল, যোগসূত্র, অমিল। নিয়ম [`AGENTS.md`](AGENTS.md)-এ।
-- **স্ক্যানে বাদ:** `thought-map.md`, `AGENTS.md`, `CLAUDE.md`, `README.md` আর `docs/plans/`।
+- **স্ক্যানে বাদ:** `thought-map.md`, `ASSUMPTIONS.md`, `AGENTS.md`, `CLAUDE.md`, `README.md` আর `docs/plans/`।
 - **নতুন ফাইল যোগ হলে এই README-র ইনডেক্সেও** সঠিক শাখার টেবিলে সারি যোগ করুন।
-- **তথ্য বদলানোর ক্রম:** `legacy_and_wisdom/docs/ASSUMPTIONS.md` → এখানকার সংশ্লিষ্ট সব ফাইল একসাথে → নিচের প্রজেক্ট।
+- **তথ্য বদলানোর ক্রম:** [`ASSUMPTIONS.md`](ASSUMPTIONS.md) → এখানকার সংশ্লিষ্ট সব ফাইল একসাথে → নিচের প্রজেক্ট।
